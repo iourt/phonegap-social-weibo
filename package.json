@@ -1,0 +1,25 @@
+{
+    "version": "1.2.0",
+    "name": "com.tangram.weibo",
+    "cordova_name": "Weibo",
+    "description": "weibo plugin for cordova",
+    "platforms": [
+        "android",
+        "ios"
+    ],
+    "repository": {
+	    "type": "git",
+	    "url": "https://github.com/Luncher/phonegap-social-weibo.git"
+	},
+  	"keywords": [
+  		"cordova",
+  		"weibo",
+  		"sdk"
+  	],
+    "engines": [{
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }],
+  	"author": "luncher",
+  	"license": "MIT"
+}
